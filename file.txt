@@ -4,3 +4,5 @@ Third change
 A cool change from a teammate
 Change from my branch
 Another change in branch
+feature 2 first change
+feature 2 second change
