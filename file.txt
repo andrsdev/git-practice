@@ -7,3 +7,5 @@ Another change in branch
 feature 2 first change
 feature 2 second change
 Change in main
+
+This is a change that is supposed to be in the feat-1 branch
